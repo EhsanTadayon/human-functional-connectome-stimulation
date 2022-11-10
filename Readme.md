@@ -12,9 +12,13 @@ If you use this script, please cite the following paper:
 Ozdemir, R. A., Tadayon, E., Boucher, P., Momi, D., Karakhanyan, K. A., Fox, M. D., ... & Santarnecchi, E. (2020). Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition. Proceedings of the National Academy of Sciences, 117(14), 8115-8125.
 
 <b> How to run: </b>
-bash yeo2subject.sh <subject> <nNetworks> <subjects_dir> 
+
+```bash yeo2subject.sh <subject> <nNetworks> <subjects_dir> ```
+
 subject: freesurfer processed subject_id 
+
 nNetworks: 7 or 17 
+
 subjects_dir: Freesurfer SUBJECTS_DIR
   
 
