@@ -16,6 +16,7 @@ This script was developed as part of a project to stimulate group-based human fu
 <i> Ozdemir, R. A., Tadayon, E., Boucher, P., Momi, D., Karakhanyan, K. A., Fox, M. D., ... & Santarnecchi, E. (2020). Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition. Proceedings of the National Academy of Sciences, 117(14), 8115-8125. </i>
 
 <b> How to run: </b>
+
 Download the package completely. Make sure fsaverage_star is downloaded fully. Run the following command within the path that you downloaded the script:
 
 ```bash yeo2subject.sh <subject> <nNetworks> <subjects_dir> ```
