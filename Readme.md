@@ -1,4 +1,4 @@
-### Human Functional Connectome Brain Network Stimulation 
+### Human Functional Connectome Stimulation 
 <b>Author:</b> Ehsan Tadayon, MD
 
 <b>Email:</b> ehsan.tadayon84@gmail.com
