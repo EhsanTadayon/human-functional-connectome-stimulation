@@ -1,5 +1,6 @@
 ### Human Functional Connectome Brain Network Stimulation 
 <b>Author:</b> Ehsan Tadayon, MD
+
 <b>Email:</b> ehsan.tadayon84@gmail.com
 
 This repository contains a script to generate following cortical maps in the individual structural MRI space: 
